@@ -1,6 +1,6 @@
 <html>
 <body bgcolor="#ff8269">
-  <h1>Welcome to Task3</h1>
+  <h1>Welcome to Task6</h1>
 <pre>
 <?php
 $color= "red";
