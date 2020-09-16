@@ -1,4 +1,4 @@
-# Creating-a-CI-CD-Build-Pipeline-using-Groovy  
+# Creating a CI/CD Build Pipeline using Groovy  
 
 <img src="imgs/task6_main.jpeg" alt="Main Task image">  
 
